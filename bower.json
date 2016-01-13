@@ -1,0 +1,21 @@
+{
+  "name": "video-game-timeline-experiment",
+  "homepage": "https://github.com/raphaelduartepinheiro/video-game-timeline-experiment",
+  "authors": [
+    "Raphael D. Pinheiro <raphaklaus@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "snap.svg#~0.4.1"
+  }
+}
