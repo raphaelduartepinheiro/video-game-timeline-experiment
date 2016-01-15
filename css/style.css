@@ -1,5 +1,18 @@
 body{
   background-color: black;
+  overflow: hidden;
+  /*position: absolute;*/
+  font-family: 'Roboto-Regular';
+  color: white;
+  margin: 50px;
+}
+
+#game-title{
+  position absolute;
+  left: 50%;
+  display: flex;
+  justify-content: center;
+  item-align: center;
 }
 
 /*@keyframes svg {

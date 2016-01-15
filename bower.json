@@ -16,6 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "svg.js": "~2.2.5"
+    "svg.js": "~2.2.5",
+    "svg.easing.js": "~1.0.0",
+    "animate.css": "~3.5.1"
   }
 }
